@@ -1,0 +1,13 @@
+push
+X : move light source to x+ coordinate
+x : move light source to x- coordinate
+Y : move light source to Y+ coordinate
+y : move light source to y- coordinate
+Z : move light source to Z+ coordinate
+z : move light source to z- coordinate
+
+m : change mode wire, flat, smooth
+n : sub level
+N : add level
+
+maximun level is 0~5
