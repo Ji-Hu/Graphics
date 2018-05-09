@@ -1,0 +1,3 @@
+simple FPS interface
+drag to move view direction
+putsh wasd to move
